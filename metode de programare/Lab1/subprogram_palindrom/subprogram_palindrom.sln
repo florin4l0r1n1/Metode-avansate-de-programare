@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "subprogram_palindrom", "subprogram_palindrom.pyproj", "{F1768986-AE13-42AD-B84E-7EF68D9737E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1768986-AE13-42AD-B84E-7EF68D9737E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1768986-AE13-42AD-B84E-7EF68D9737E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F80B39A-22A7-4775-BBD9-9E1DE1DD12DC}
+	EndGlobalSection
+EndGlobal
